@@ -6,7 +6,8 @@ A simple Streamlit app template for you to modify!
 
 ### How to run it on your own machine
 
-1. Install the requirements
+streamlit
+requests
 
    ```
    $ pip install -r requirements.txt
